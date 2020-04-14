@@ -9,10 +9,10 @@ A consumer will reach their fitness goals quicker when they track their workout 
 
 # Stack 
 This app was made using:
-Node Express Server
-MongoDB
-Mongoose ODM
-Semantic UI
+Node Express Server,
+MongoDB,
+Mongoose ODM,
+and the Semantic UI
 
 
 # Screenshot
