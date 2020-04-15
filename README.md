@@ -19,3 +19,5 @@ and the Semantic UI
 ![alt_text](./Develop/img/Workout-Dashboard-Screenshot.png)
 
 # Link to deployed application
+
+https://workout-tracker-tb.herokuapp.com/
