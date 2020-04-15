@@ -20,7 +20,6 @@ mongoose.connect(MONGODB_URI, {
     useNewUrlParser: true,
     useFindAndModify: false,
 });
-
 //Routes
 require("./routes/html-routes")(app);
 require("./routes/api-routes")(app);
